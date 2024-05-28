@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.principal-menu {
+  background-color: black;
+}
+
+.items-principal-menu {
+  display: inline;
+}
+
+.btn-principal-menu {
+  background-color: black;
+  color: white;
+  border:  0px;
+  font-size: 30px;
+  padding: 1.5%;
+}
+
+.form-container {
+  text-align:left;
+  margin-left: 10%;
+}
+
+.result {
+  display: inline;
+}
