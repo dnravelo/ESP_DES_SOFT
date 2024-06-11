@@ -6,7 +6,7 @@ function CreateTask () {
                 <label> Id </label> <input /> <br/> <br/>
                 <label> Start Date </label> <input /> <br/> <br/>
                 <label> End Date</label> <input /> <br/> <br/>
-                <label> Description </label> <input /> <br/> <br/>
+                <label> Description </label> <textarea /> <br/> <br/>
                 <label> Left Time </label> <input /> <br/> <br/>
                 <label> Total Time </label> <input /> <br/> <br/>
                 <button> Save </button>

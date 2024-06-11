@@ -14,7 +14,7 @@ function SearchTask () {
                  <label> Id </label> <input disabled/> <br/> <br/>
                 <label> Start Date </label> <input disabled/> <br/> <br/>
                 <label> End Date</label> <input disabled/> <br/> <br/>
-                <label> Description </label> <input disabled/> <br/> <br/>
+                <label> Description </label> <textarea disabled/> <br/> <br/>
                 <label> Left Time </label> <input disabled/> <br/> <br/>
                 <label> Total Time </label> <input disabled/> <br/> <br/>
             </div>
