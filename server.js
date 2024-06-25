@@ -34,3 +34,10 @@ app.get('/createtask_view', function(req, res){
 app.get('/searchtask_view', function(req, res){
     res.sendFile(dir_front + "/frontend/build/index.html")
 })
+
+app.post("/create_task", (req, res) => {
+    let {tittle,startdate, enddate, description,totaltime} = req.body
+    console.log(tittle)
+    console.log(startdate)
+    res.redirect("/")
+})
